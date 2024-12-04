@@ -22,3 +22,5 @@ A simple real-time chat application built with **Node.js**, **Express**, and **S
 
 ### **1. Clone the Repository**
 ```bash
+git clone https://github.com/redaksjsj/Real-Time-Chat-App-
+cd real-time-chat-app
